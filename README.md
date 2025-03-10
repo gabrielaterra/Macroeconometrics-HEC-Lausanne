@@ -1,6 +1,6 @@
 # Information flow directions using Granger Causality with intraday data
 
-This repository contains R scripts for analyzing the relationship between major stock indices (IBOV, SPX, and NASDAQ) using time series techniques. It is the final project for the first-year Macroeconometrics class in the MScE at HEC Lausanne.
+This repository contains R scripts for analyzing the relationship between major stock indices (IBOV, SPX, and NASDAQ) using time series techniques. It is the final project for the first-year Macroeconometrics class in the MScE at HEC Lausanne completed in Spring 2023.
 
 ## Project Structure
 
