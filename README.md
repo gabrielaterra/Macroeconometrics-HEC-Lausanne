@@ -1,6 +1,6 @@
 # Financial Time Series Analysis
 
-This repository contains R scripts for analyzing the relationship between major stock indices (IBOV, SPX, and NASDAQ) using time series techniques, it is the final project for the first year Macroeconometrics class in the MScE in HEC Lausanne.
+This repository contains R scripts for analyzing the relationship between major stock indices (IBOV, SPX, and NASDAQ) using time series techniques. It is the final project for the first-year Macroeconometrics class in the MScE at HEC Lausanne.
 
 ## Project Structure
 
